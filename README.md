@@ -4,7 +4,7 @@
 
 <br>
 
-<p>Hi there!👋, My name is **Reuel** and I'm a 24-year-old Frontend Developer. I have 2+ years of experience in professional web development, and have completed a variety of self-developed projects. Thanks for checking out my Github profile!</p>
+<p>Hi there!👋, My name is <strong>Reuel</strong> and I'm a 24-year-old Frontend Developer. I have 2+ years of experience in professional web development, and have completed a variety of self-developed projects. Thanks for checking out my Github profile!</p>
 
 <div>
   <details>
