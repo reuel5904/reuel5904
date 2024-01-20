@@ -53,7 +53,6 @@
 
   <h3>Github Stats</h3>
 
-  <a href="https://github.com/reuel5904"><img src="https://github-readme-stats.vercel.app/api?username=reuel5904&theme=radical&title_color=ff3068?"></a>
   <a href="https://github.com/reuel5904"><img src="https://github-readme-streak-stats.herokuapp.com?user=reuel5904&theme=tokyonight&hide_border=true&card_width=720" alt="GitHub Streak"></a>
 </div>
 
